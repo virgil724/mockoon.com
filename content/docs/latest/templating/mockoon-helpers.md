@@ -107,7 +107,7 @@ Get the **stringified** value at a given `path` from a [data bucket](docs:data-b
 
 | Arguments (ordered) | Type   | Description                      |
 | ------------------- | ------ | -------------------------------- |
-| 0                   | string | ID or name of the daa bucket     |
+| 0                   | string | ID or name of the data bucket     |
 | 1                   | string | Path to the data bucket property |
 
 **Examples**
